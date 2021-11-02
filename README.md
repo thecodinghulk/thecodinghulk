@@ -1,2 +1,2 @@
-# 💻 thecodinghulk 💻
+# 💻 thecodinghulk
 ## 🚧 under construction 🚧
