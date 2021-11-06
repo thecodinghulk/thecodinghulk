@@ -1,4 +1,5 @@
 # thecodinghulk 🤓
 -  📚 Currently learning GitOps
-    - GitLab
+    - ☑️ GitLab in a Container
+        - ✅ Data Persistance
     - Infrastructure as Code
