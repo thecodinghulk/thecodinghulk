@@ -1,5 +1,17 @@
 # thecodinghulk 🤓
--  📚 Currently learning GitOps
-    - ☑️ GitLab in a Container
-        - ✅ Data Persistance
-    - Infrastructure as Code
+
+### Operating Systems
+## Windows
+- Install
+- Update
+- Configure
+
+## Linux
+- Install
+- Update
+- Configure
+
+## macOS
+- Install
+- Update
+- Configure
