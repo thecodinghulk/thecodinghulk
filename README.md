@@ -1,17 +1,6 @@
 # thecodinghulk 🤓
 
-### Operating Systems
-## Windows
-- Install
-- Update
-- Configure
+## Operating Systems
+Installation, Configuration and Security Updates
 
-## Linux
-- Install
-- Update
-- Configure
-
-## macOS
-- Install
-- Update
-- Configure
+### Windows, Linux, macOS
